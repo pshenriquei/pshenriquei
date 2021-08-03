@@ -26,6 +26,8 @@
    <img align="center" alt="Ph-Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    <img align="center" alt="Ph-Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
    <img align="center" alt="Ph-IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+     
+     ![Snake animation](https://github.com/pshenriquei/pshenriquei/blob/output/github-contribution-grid-snake.svg)
     
 </div>
   
@@ -36,7 +38,7 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-ignacio-sobrinho-754108175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
-    ![Snake animation](https://github.com/pshenriquei/pshenriquei/blob/main/.github/workflows/cobrinha.yml)
+    
     
   </div>
   
