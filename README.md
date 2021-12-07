@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro Henrique 👋
 
-- 🔭 I’m currently working on service n2 at Braspag for Lios machines
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working developer mobile at Braspag
+- 🌱 I’m using Flutter, Kotlin and Java in my job.
 - 😄 Pronouns: he/his
 
 <div>
